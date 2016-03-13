@@ -1,5 +1,4 @@
 User-Agent: *
-Disallow: 
 Disallow: /PPersonal
 Allow: /PPersonal/LinearAlg
 Allow: /PPersonal/Multi

@@ -4,10 +4,7 @@ Allow: /PPersonal/LinearAlg
 Allow: /PPersonal/Multi
 Allow: /PPersonal/DiffEq
 Allow: /PPersonal/QuantumMech
-Allow: /PPersonal/SoftConst
 Allow: /PPersonal/WavesVibrations
-Allow: /PPersonal/WinningChess
-Allow: /PPersonal/DeductiveLog
 Disallow: /PSpring-2016
 Allow: /PSpring-2016/Model-UN
 Allow: /Fall-2015

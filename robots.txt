@@ -10,3 +10,6 @@ Allow: /PSpring-2016/Model-UN
 Allow: /Fall-2015
 Allow: /Spring-2016
 Disallow: /configFiles
+
+User-Agent: Adsbot-Google
+Disallow: /
